@@ -1,6 +1,6 @@
 # 🚀 TrendHero Processor — Google Sheets Data Pipeline
 
-Google Apps Script для автоматической обработки экспортов из [TrendHero](https://trendhero.io): фильтрация по ГЕО, извлечение контактов из bio, сортировка и форматирование результатов.
+Google Apps Script для автоматической обработки экспортов из [TrendHero](https://docs.google.com/spreadsheets/d/1gYmKUoZAedBYmePqfgfJgIBxWgtiuFtMkuDYvsgSWYo/edit?usp=sharing): фильтрация по ГЕО, извлечение контактов из bio, сортировка и форматирование результатов.
 
 ## 📋 Что делает
 
